@@ -1,4 +1,6 @@
 YouTube: 18.38.44  
+Music: 6.23.54  
+Lightroom: 9.0.0  
 IconPackStudio: 2.2 build 016  
 
 Install [Vanced Microg](https://github.com/TeamVanced/VancedMicroG/releases) for non-root YouTube and YT Music  
