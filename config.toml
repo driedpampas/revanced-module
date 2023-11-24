@@ -6,6 +6,11 @@ enable-magisk-update = true   # set this to false if you do not want to receive 
 
 # you can use rvmm-config-gen to generate a config
 
-[Photomath]
-enabled = true
-apkmonk-dlurl = "https://d2.apkmonk.com/apk-2/com.microblink.photomath_2023-11-02.apk?mac=VFksKDvajFpr84BjcsTno+OZRtc=&expiry=1699384188"
+[YouTube]
+apkmirror-dlurl = "https://apkmirror.com/apk/google-inc/youtube/"
+build-mode = "both"
+excluded-patches = "'Wide searchbar' 'Hide captions button' 'Hide autoplay button' 'Disable player popup panels' 'Player flyout menu' 'Hide 'Load more' button' 'Disable suggested video end screen' 'Hide seekbar' 'Hide Shorts components' 'Hide info cards' 'Comments' 'Spoof app version' 'Theme' 'Enable tablet layout' 'Restore old seekbar thumbnails' 'Tablet mini player' 'Vanced MicroG support' 'Swipe controls' 'Copy video url' 'Disable precise seeking gesture'"
+
+[Twitter]
+apkmirror-dlurl = "https://apkmirror.com/apk/twitter-inc/twitter/"
+excluded-patches = "'Hide recommended users'"
