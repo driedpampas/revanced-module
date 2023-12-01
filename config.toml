@@ -9,7 +9,7 @@ enable-magisk-update = true   # set this to false if you do not want to receive 
 [YouTube]
 apkmirror-dlurl = "https://apkmirror.com/apk/google-inc/youtube/"
 build-mode = "both"
-excluded-patches = "'Wide searchbar' 'Hide captions button' 'Hide autoplay button' 'Disable player popup panels' 'Player flyout menu' 'Hide 'Load more' button' 'Disable suggested video end screen' 'Hide seekbar' 'Hide Shorts components' 'Hide info cards' 'Comments' 'Spoof app version' 'Theme' 'Enable tablet layout' 'Restore old seekbar thumbnails' 'Tablet mini player' 'Vanced MicroG support' 'Swipe controls' 'Copy video url' 'Disable precise seeking gesture'"
+excluded-patches = "'Wide searchbar' 'Hide captions button' 'Hide autoplay button' 'Disable player popup panels' 'Player flyout menu' 'Hide 'Load more' button' 'Disable suggested video end screen' 'Hide seekbar' 'Hide Shorts components' 'Hide info cards' 'Comments' 'Spoof app version' 'Theme' 'Enable tablet layout' 'Restore old seekbar thumbnails' 'Tablet mini player' 'Swipe controls' 'Copy video url' 'Disable precise seeking gesture'"
 
 [Twitter]
 apkmirror-dlurl = "https://apkmirror.com/apk/twitter-inc/twitter/"
